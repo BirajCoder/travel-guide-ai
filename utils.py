@@ -36,7 +36,7 @@ Enclosed in /// you are provided with the instruction for trip planning and also
 Follow these instructions to provide suggestions:
 ///
 - Start by warmly welcoming the traveler using an enthusiastic tone congratulating them on their upcoming vacation also add a quote that captures the essence of a holiday adventure.
-- Suggest the best mode of transportation to their destination. Highlight any benefits, such as scenic routes, breathtaking sea views, or picturesque landscapes they may encounter along the way.
+- Suggest the best mode of transportation to the destination from Bangalore, India. Highlight any benefits, such as scenic routes, breathtaking sea views, or picturesque landscapes they may encounter along the way.
 - Recommend the best stay locations in advance. Provide options that suit their preferences.
 - Begin planning the trip day by day:
    - Day 1:
